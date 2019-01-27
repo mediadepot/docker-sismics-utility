@@ -1,0 +1,72 @@
+tags:
+  - label: Home and Property Records
+    color: '#1abc9c' #turquoise
+    tags:
+    - label: Mortgage
+    - label: Property Deeds
+    - label: Home Improvement Project Reciepts
+    - label: Appliance Manuals and Warranties
+    - label: Property Tax Information
+    - label: Home Insurance Policies
+    - label: Manuals
+  - label: Auto Records
+    color: '#2ecc71' #emerald
+    tags:
+    - label: Titles
+    - label: Maintenance Records
+    - label: Insurance Policies and Information
+    - label: Loan Information
+    - label: Payment Records
+  - label: Health Records
+    color: '#3498db' #peter-river
+    tags:
+    - label: Insurance Policies
+    - label: Health Insurance Benefits Manuals
+    - label: Explanation of Medical Benefits
+    - label: Doctor Bills
+    - label: Prescription Lists
+    - label: Flexible Spending Information
+    - label: Medical Receipts
+    - label: Medical Directives
+    - label: Life Insurance Policies
+  - label: Financial Records
+    color: '#9b59b6' #amethyst
+    tags:
+    - label: Bank Statements
+    - label: Tax Returns
+    - label: Tax Deduction Records
+    - label: Investment Records
+    - label: Loan Records
+    - label: Credit Card Statements
+  - label: Electronics Records
+    color: '#34495e' #black
+    tags:
+    - label: Cell Phone Contracts
+    - label: Sales Receipts and Warranties
+    - label: Cable and Internet Plans and Bills
+    - label: Manuals
+  - label: Personal Records
+    color: '#f1c40f' #sunflower
+    tags:
+    - label: Birth Certificates
+    - label: Marriage Certificate
+    - label: Divorce Certificate
+    - label: Custody Papers
+    - label: Social Security Information
+    - label: Immunization Records
+    - label: Passports
+    - label: Education
+    - label: Wills
+    - label: Funeral plan
+    - label: Burial site information
+    - label: Immigration
+  - label: Credentials & Passwords
+    color: '#e67e22' #carrot
+  - label: Travel
+    color: '#e74c3c' #alizarin
+  - label: Employers
+    color: '#95a5a6' #concrete
+    tags:
+    - label: Offer Letters
+    - label: Job Postings
+
